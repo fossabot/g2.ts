@@ -7,6 +7,7 @@
 [![NPM Package](https://img.shields.io/npm/v/@antv/g2.svg)](https://www.npmjs.com/package/@antv/g2)
 [![NPM Downloads](http://img.shields.io/npm/dm/@antv/g2.svg)](https://npmjs.org/package/@antv/g2)
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/antvis/g2.svg)](http://isitmaintained.com/project/antvis/g2 "Percentage of issues still open")
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgradii%2Fg2.ts.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgradii%2Fg2.ts?ref=badge_shield)
 
 G2 is a visualization grammar, a data-driven visual language with a high level of usability and scalability. It provides a set of grammars, takes users beyond a limited set of charts to an almost unlimited world of graphical forms. With G2, users can describe the visual appearance of a visualization just by one statement.
 
@@ -77,3 +78,7 @@ $ npm run demos
 Please let us know how can we help. Do check out [issues](https://github.com/antvis/g2/issues) for bug reports or suggestions first.
 
 To become a contributor, please follow our [contributing guide](https://github.com/antvis/g2/blob/master/CONTRIBUTING.md).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgradii%2Fg2.ts.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgradii%2Fg2.ts?ref=badge_large)
